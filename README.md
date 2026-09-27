@@ -1,4 +1,4 @@
-# HomeValue — House Price Prediction
+# HomeValue - House Price Prediction
 
 A complete machine learning portfolio project: a real Random Forest trained on Ames Housing, an interactive English-language website, honest evaluation, and automatic GitHub Pages deployment. Predictions run locally in the browser. No API key, paid AI service, database, or backend is required.
 
